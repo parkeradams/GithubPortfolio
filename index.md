@@ -3,10 +3,10 @@
 This is a portfolio of my projects, originally created for CS 3750 and Weber State Univserity and currently only includes assignments from that class.
 
 In this class, my group created:
- - A hangman game entirely in PHP
- - A banking app that uses .NET, a database, and a login system that uses password hashing and a salt
- - A stock investing practice website that uses asynchronous communication through Web Sockets
- - Nerdle, a "Boggle" like game that allows two players to play at the same time
+ - [A hangman game entirely in PHP](#-Hangman)
+ - [A banking app that uses .NET, a database, and a login system that uses password hashing and a salt](#-Banking-App)
+ - [A stock investing practice website that uses asynchronous communication through Web Sockets](#-Stock-Investing-Practice)
+ - [Nerdle, a "Boggle" like game that allows two players to play at the same time](#-Nerdle)
 
 # Hangman
 https://github.com/parkeradams/Hangman-Game
