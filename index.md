@@ -9,6 +9,7 @@ In this class, my group created:
  - Nerdle, a "Boggle" like game that allows two players to play at the same time
 
 # Hangman
+https://github.com/parkeradams/Hangman-Game
 
 this hangman game was my first project created in PHP. It had a functiona login system with error feedback, used session variables to allow the user to guess a letter, and used the database to store words and keep a high score table.
 
@@ -42,6 +43,8 @@ function createUser($conn, $username, $password){
 ```
 
 # Banking App
+back end https://github.com/n8pickle/bankproject
+front end https://github.com/n8pickle/bankproject-ui
 
 This banking app used .NET to simulate an app having transactions between accounts. It used bankers rounding and integers to make sure the numbers were accurate
 
@@ -78,6 +81,8 @@ withdrawal and deposit to the account
 
 ```
 # Stock Investing Practice
+back end https://github.com/riv-2009/StockInvesting
+front end https://github.com/riv-2009/stock-investing-ui
 
 This app lets the user guess the price of a stock over the course of a 7 days and buy and sell accordingly. It has a slider, circle picker, and manual text entry.
 
@@ -109,6 +114,9 @@ public async Task StockTickerMessage(string message)
 ```
 
 # Nerdle
+back end https://github.com/n8pickle/word-grid-back-end
+front end https://github.com/DenverJensen/word-grid-ui
+
 
 This game is the boggle clone that my group worked on. It uses signalR to send messages asynchronously 
 
